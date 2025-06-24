@@ -37,6 +37,7 @@ pip install numpy pillow opencv-python
 jupyter notebook Stegnography_Project.ipynb
 
 2.Follow the cells to:
+
 Upload an image
 
 Enter a secret message
