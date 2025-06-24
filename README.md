@@ -39,12 +39,20 @@ jupyter notebook Stegnography_Project.ipynb
 2.Follow the cells to:
 
 Upload an image
+![Screenshot 2025-06-24 140011](https://github.com/user-attachments/assets/8b7e98da-8a0a-4873-9220-d13a293d9a26)
 
 Enter a secret message
+![Screenshot 2025-06-24 140043](https://github.com/user-attachments/assets/bddd61e0-9455-4209-9672-ad86f22a7d3c)
 
 Encode and save the stego image
+![Screenshot 2025-06-24 140052](https://github.com/user-attachments/assets/09177fc1-4757-4a27-a81d-e98970bdbfc2)
 
 Decode the hidden message
+![Screenshot 2025-06-24 140102](https://github.com/user-attachments/assets/4d4cf9e0-544d-490d-a9e6-9cf17764500a)
+
+Final output :
+![Screenshot 2025-06-24 140134](https://github.com/user-attachments/assets/0dba954d-68e1-4b47-a2a2-d543c75ce57d)
+
 
 ![image](https://github.com/user-attachments/assets/7afd034a-f8cb-437e-bfa0-1e33d638c72d)
 
